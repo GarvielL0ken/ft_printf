@@ -13,6 +13,7 @@
 #ifndef LIBFT_H
 # define LIBFT_H
 # define BUFF_SIZE 1
+# define LF 13
 # include <stdlib.h>
 # include <string.h>
 # include <unistd.h>
